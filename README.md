@@ -10,8 +10,8 @@ A full-stack personal portfolio built with **React (Vite)** on the front end and
 
 | Part | URL |
 | --- | --- |
-| Frontend (Vercel) | `https://YOUR-SITE.vercel.app` ← replace after deploying |
-| Backend API (Render) | `https://YOUR-API.onrender.com/api/health` ← replace after deploying |
+| Frontend (Vercel) | `https://mern-portfolio-eight-umber.vercel.app` ← replace after deploying |
+| Backend API (Render) | `https://mern-portfolio-1-kknk.onrender.com` ← replace after deploying |
 
 > The free Render tier sleeps when idle, so the first request can take ~30–60 seconds.
 
